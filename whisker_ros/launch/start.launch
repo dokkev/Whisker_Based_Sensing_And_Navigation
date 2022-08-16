@@ -1,6 +1,0 @@
-<launch>
-
- 
-    <!-- start communicator node -->
-    <node name="communicator" pkg="whisker_ros" type="communicator" />
-</launch>
